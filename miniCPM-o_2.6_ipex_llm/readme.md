@@ -21,4 +21,5 @@ to enabling it steps:
    after installing the torch, torchaudio, torchvision and intel_extension_for_pytorch, you can install other packages, like "pip install -r requirements.txt".
 
 7. run models like "python chat_images.py", or "streamlit run streamlit_demo.py"
-    please note don't forget the change the model, image, video, audio path to your local folders.
+
+   please note don't forget the change the model, image, video, audio path to your local folders.
