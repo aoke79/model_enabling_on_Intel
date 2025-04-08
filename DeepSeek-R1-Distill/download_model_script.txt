@@ -1,0 +1,2 @@
+set HF_ENDPOINT=https://hf-mirror.com
+huggingface-cli download --resume-download deepseek-ai/DeepSeek-R1-Distill-Llama-8B --local-dir DeepSeek-R1-Distill-Llama-8B --local-dir-use-symlinks False

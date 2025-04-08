@@ -1,0 +1,1 @@
+optimum-cli export openvino --model DeepSeek-R1-Distill-Llama-8B --weight-format int4 --group-size 64 --ratio 1.0 DeepSeek-R1-Distill-Llama-8B-ov-int4 --task text-generation-with-past --trust-remote-code
